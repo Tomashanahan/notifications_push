@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "417316924421",
+    "project_id": "push-notifications-2dde0",
+    "storage_bucket": "push-notifications-2dde0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417316924421:android:b7d7f5b41a20b69b21806c",
+        "android_client_info": {
+          "package_name": "com.tomasshanahan.notifications_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417316924421-9t5bj6packo3b71v0t3v3testpjb3art.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqFVOC-q4oTp-MFbWDo9wVgkRh-5pVStQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417316924421-9t5bj6packo3b71v0t3v3testpjb3art.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "417316924421-nai8jfqhgb641861sfjnsrt2vkm23fus.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notificationsPush.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
